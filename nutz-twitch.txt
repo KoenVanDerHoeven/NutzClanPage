@@ -1,0 +1,55 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="Koen2000xp" content="">
+
+    <title>Nutz for PC</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/nutz.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css" />
+
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="nutz.html"><img src="http://services.runescape.com/m=avatar-rs/avatar.png?id=22324178&w=274" alt="Clan Logo" style="width:91px;height:40px;"></a>
+    </div>
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="nutz-homepage.html">Home</a></li>
+        <li><a href="nutz-aboutus.html">About</a></li>
+        <li><a href="nutz-rules.html">Rules</a></li>
+        <li><a href="nutz-staff.html">Staff</a></li>
+        <li><a href="nutz-events.html">Events</a></li>
+        <li><a href="nutz-dd.html">D&D Portal</a></li>
+        <li class="active"><a href="nutz-twitch.html">Twitch</a></li>
+        <li><a href="nutz-ircts.html">IRC and Teamspeak</a></li>
+        <li><a href="nutz-gallery.html">Gallery</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+</body>
+
+</html>
